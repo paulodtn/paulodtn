@@ -27,5 +27,5 @@
   <a href="https://www.linkedin.com/in/paulo-de-tarso-nascimento-filho-53a18ba0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
     
-  ![Snake animation](https://github.com/paulodtn/paulodtn/blob/output/github-contribution-grid-snake.svg)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/paulodtn/paulodtn/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/paulodtn/paulodtn/output/github-contribution-grid-snake.svg#gh-light-mode-only)
  
