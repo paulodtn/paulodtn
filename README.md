@@ -46,5 +46,5 @@ Hoje, meu foco é o desenvolvimento de aplicações web robustas e escaláveis, 
 ### 🐍 Gráfico de Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/paulodtn/paulodtn/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/paulodtn/paulodtn/output/snake.svg" alt="Snake animation">
 </div>
