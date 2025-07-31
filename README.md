@@ -46,7 +46,6 @@ Hoje, meu foco é o desenvolvimento de aplicações web robustas e escaláveis, 
 ### ⚡ Animações de Contribuição
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/paulodtn/paulodtn/output/snake.svg" alt="Snake animation" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulodtn/paulodtn/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulodtn/paulodtn/output/pacman-contribution-graph.svg" />
